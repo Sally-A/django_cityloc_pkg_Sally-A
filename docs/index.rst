@@ -9,6 +9,12 @@ Welcome to django_cityloc_pkg_Sally-A's documentation!
 .. automodule:: django_cityloc_pkg_Sally
    :members:
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
 Indices and tables
 ==================
 
